@@ -1,0 +1,1 @@
+ALTER TABLE vrp_users ADD firsttimenume int(11) NOT NULL DEFAULT 0
